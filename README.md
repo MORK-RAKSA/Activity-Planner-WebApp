@@ -23,7 +23,7 @@ Our platform is perfectly for our user who want to manage their schedule and not
 * [![Static Badge](https://img.shields.io/badge/Figma-2C2D34?style=for-the-badge&logo=figma&logoColor=fff&color=%232C2D34)](https://www.figma.com/design/AZY3SibhsYmorZtocfp49s/Productivity-Planner?node-id=1-2161&t=YrpC93h1xQuXzkqh-1)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="[https://github.com/MORK-RAKSA/Activity-Planner-WebApp">back to top</a>)</p>
 
 
 ### Built With
