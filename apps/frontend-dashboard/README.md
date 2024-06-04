@@ -17,7 +17,7 @@ Welcome to the Productivity Planner dashboard! This repository contains the dash
 
 This section we lists all library and framework that make this project
 
-* [![Static Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff&color=000000)](https://nextjs.org/)
+* [![Static Badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square)](https://react.dev/)
 * [![Static Badge](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=fff&color=38B2AC)](https://tailwindcss.com/)
 * [![Static Badge](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=fff&color=FF4785)](https://storybook.js.org/)
 
@@ -42,7 +42,7 @@ Before you begin, ensure you have met the following requirements:
     ```
 2. **Navigate to the Service Directory**
     ```sh
-    cd apps/frontend-client
+    cd apps/frontend-dashboard
     ```
 3. **Install Dependencies**
     ```sh
@@ -61,7 +61,7 @@ Before you begin, ensure you have met the following requirements:
 
 5. **Follow the link below**
     ```sh
-    http://localhost:3000
+    http://localhost:4000
     ```
 
 #### Run Storybook:
@@ -71,7 +71,7 @@ Before you begin, ensure you have met the following requirements:
     ```
 2. **Navigate to the Service Directory**
     ```sh
-   cd apps/frontend-client
+   cd apps/frontend-dashboard
     ```
 3. **Install Dependencies**
     ```sh
