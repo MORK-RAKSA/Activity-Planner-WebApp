@@ -31,7 +31,7 @@ Our platform is perfectly for our user who want to manage their schedule and not
 
 This section we lists all library and framework that make this project
 
-* [![Static Badge](https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=next.js&logoColor=fff&color=000000)](https://nextjs.org/)
+* [![Static Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff&color=000000)](https://nextjs.org/)
 * [![Static Badge](https://img.shields.io/badge/Node.js-499442?style=for-the-badge&logo=node.js&logoColor=fff&color=499442)](https://nodejs.org/en)
 * [![Static Badge](https://img.shields.io/badge/Tyscript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff&color=3178C6)](https://www.typescriptlang.org/)
 
