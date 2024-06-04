@@ -1,6 +1,5 @@
 
 import logger, { loggerBeautifulObject } from '@utils/logger';
-import Button from './components/atom/button';
 
 
 export default function Home() {
@@ -13,10 +12,16 @@ export default function Home() {
     }
   })
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <Button>
-        my button
-      </Button>
-    </main>
+    <div className="bg-background-image bg-cover bg-center h-screen">
+       <div>
+         <div className=' flex flex-col gap-3 items-center '>
+            <h1 className=' text-3xl font-bold text-silabColor'>The best time <br /> <span className=' text-purpleColor'>to start is now!</span></h1>
+            <p className='text-silabColor text-center px-5'>Journey through life with a sense of wonder. Discover hidden gems and make every moment a cherished memory.</p>
+         </div>
+         <div>
+
+         </div>
+       </div>
+    </div>
   );
 }
