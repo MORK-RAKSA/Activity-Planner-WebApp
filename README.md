@@ -24,7 +24,7 @@ Our platform is perfectly for our user who want to manage their schedule and not
 * [![Static Badge](https://img.shields.io/badge/Figma-2C2D34?style=for-the-badge&logo=figma&logoColor=fff&color=%232C2D34)](https://www.figma.com/design/AZY3SibhsYmorZtocfp49s/Productivity-Planner?node-id=1-2161&t=YrpC93h1xQuXzkqh-1)
 
 
-<<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### Built With
@@ -32,7 +32,7 @@ Our platform is perfectly for our user who want to manage their schedule and not
 This section we lists all library and framework that make this project
 
 * [![Static Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff&color=000000)](https://nextjs.org/)
-* [![Static Badge](https://img.shields.io/badge/Docker%20Desktop-1D63ED?style=for-the-badge&logo=docker&logoColor=fff)](https://www.docker.com/products/docker-desktop/)
+* [![Static Badge](https://img.shields.io/badge/Reactjs%20Desktop-1D63ED?style=for-the-badge&logo=docker&logoColor=fff)](https://www.docker.com/products/docker-desktop/)
 * [![Static Badge](https://img.shields.io/badge/Node.js-499442?style=for-the-badge&logo=node.js&logoColor=fff&color=499442)](https://nodejs.org/en)
 * [![Static Badge](https://img.shields.io/badge/Tyscript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff&color=3178C6)](https://www.typescriptlang.org/)
 
