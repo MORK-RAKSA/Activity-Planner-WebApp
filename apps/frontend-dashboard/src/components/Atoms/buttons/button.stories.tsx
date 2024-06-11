@@ -2,9 +2,8 @@ import type { Meta, StoryObj } from "@storybook/react";
 import { fn } from "@storybook/test";
 import Button from "./button";
 
-
 const meta: Meta<typeof Button> = {
-  title: "SabaiCode/Atoms/Button",
+  title: "Frontend-dashboard/Atoms/Button",
   component: Button,
   parameters: {
     layout: "centered",
@@ -29,6 +28,7 @@ export const Outline: Story = {
     variant: "outline",
   },
 };
+
 export const Text: Story = {
   args: {
     children: "Button Text",

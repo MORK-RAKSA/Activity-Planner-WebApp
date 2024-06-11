@@ -23,6 +23,7 @@ const config: StorybookConfig = {
   webpackFinal: async (config, {configType}) => {
     return {...config, module:{...config.module, rules: custom.module.rules}};
   },
+  
   framework: {
     name: getAbsolutePath("@storybook/react-webpack5"),
     options: {},

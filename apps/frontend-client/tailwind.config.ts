@@ -18,6 +18,9 @@ const config: Config = {
       colors: {
         "purpleColor":"#6B4EFF",
         "silabColor":"#AAB9CA",
+        "quartzColor":"#E4D9F2",
+        "purple300":"#B77DEB",
+        "purple900":"#6F5FC8"
       },
     },
   },

@@ -5,7 +5,11 @@ module.exports = {
     "./.storybook/**/*.{js,jsx,ts,tsx}"
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        "purpleColor":"#6B4EFF",
+      },
+    },
   },
   plugins: [],
 }

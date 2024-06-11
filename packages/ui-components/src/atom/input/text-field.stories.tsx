@@ -5,7 +5,7 @@ import TextField from "./text-field";
 
 
 const meta: Meta <typeof TextField> = {
-    title: "SabaiCode/Atoms/TextField",
+    title: "ui-components/Atoms/TextField",
     component: TextField,
     parameters: {
         layout: "centered",

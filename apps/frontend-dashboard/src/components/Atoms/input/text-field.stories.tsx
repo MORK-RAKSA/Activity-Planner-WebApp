@@ -3,7 +3,7 @@ import TextField from "./text-field";
 
 
 const meta: Meta <typeof TextField> = {
-    title: "SabaiCode/Atoms/TextField",
+    title: "Frontend-dashboard/Atoms/TextField",
     component: TextField,
     parameters: {
         layout: "centered",
