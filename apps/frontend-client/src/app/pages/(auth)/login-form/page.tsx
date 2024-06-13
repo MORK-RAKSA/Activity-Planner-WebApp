@@ -1,6 +1,7 @@
+import Image from "next/image";
 import Link from "next/link";
 import React from "react";
-import {Button} from "ms-ui-components";
+//import {Button} from "ms-ui-components";
 
 export default function LoginForm() {
   return (
@@ -12,7 +13,7 @@ export default function LoginForm() {
           </Link>
         </div>
         <div className=" relative flex flex-col items-center ">
-          <img src="/images/auth-img/login-form.png" alt="" />
+          <Image width={400} height={400} src="/images/auth-img/login-form.png" alt="dd" />
           <p className=" absolute text-purple300 font-bold text-xl  bottom-1 text-center">
             Welcome back! Please log in to continue.
           </p>

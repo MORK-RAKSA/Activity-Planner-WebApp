@@ -1,7 +1,7 @@
 export interface QuestionSurveyType {
   id: number;
   question: string;
-  image?: string;
+  image: string;
 }
 
 export interface WidthProps {
